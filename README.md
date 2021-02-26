@@ -1,2 +1,1 @@
-# hello-world
-Mi primer repositorio es un ejemplo de algo sencillo
+quiero algo diferente, como que borre por accidente esto
